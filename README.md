@@ -1,8 +1,9 @@
-# Monk9tech_VLSI_INTERNSHIP_TASK
-# DAY 1 OVERVIEW PHYSICAL DESINGN
-# DAY 2 GITHUB AND LINUX OVERVIEW
-# DAY 3 BASICS OF FLOORPLANING + GITHUB & LINUX LABS
+# Monk9Tech_VLSI_INTRNSHIP_TASK
+
+# Day 1 Overview of physical design
+# Day 2 Github and Linux Overview
+# Day 3 Basic of Floorplanning + Github & Linux Labs
 
 
-## TASK 1 CREATE GITHUB PROFILE AND README FILES
-## TASK 2 GITHUB & README LABS
+## Task 1 create github profile and readme files
+## Task 2 Github & Readme Labs
